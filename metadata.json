@@ -1,0 +1,6 @@
+{
+  "name": "FISIKA JENIUS – MASTER FLUIDA DINAMIS",
+  "description": "Aplikasi pembelajaran dan simulasi latihan TKA Fisika SMA materi Fluida Dinamis berstandar HOTS dengan narator interaktif Mister Jo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
